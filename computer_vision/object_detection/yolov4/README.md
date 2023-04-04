@@ -29,3 +29,15 @@ Finally, we can perform object detection on the video dataset. To do this, we ne
 
 ## Conclusion
 Object detection is a powerful tool for identifying and localizing objects in a video dataset. With the availability of deep learning frameworks and pre-trained models, it has become easier than ever to perform object detection on video datasets. By following the steps outlined in this article, you can create your own object detection model and apply it to your own video datasets.
+
+## Project Reference
+
+1. Real-time object detection in video with YOLOv3: This project uses the YOLOv3 algorithm to detect objects in a video stream in real-time. The source code and a detailed tutorial can be found on GitHub: https://github.com/ayooshkathuria/pytorch-yolo-v3
+
+2. Object detection in video using Mask R-CNN: This project uses the Mask R-CNN algorithm to detect objects in video frames. The source code and a tutorial can be found on GitHub: https://github.com/matterport/Mask_RCNN
+
+3. Object tracking and detection in video using TensorFlow: This project uses the TensorFlow library to detect and track objects in a video. The source code and a tutorial can be found on GitHub: https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
+
+4. Human activity recognition in videos using deep learning: This project uses deep learning techniques to recognize human activities in a video. The source code and a tutorial can be found on GitHub: https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition
+
+These projects can serve as a starting point for your own object detection project using video datasets.
